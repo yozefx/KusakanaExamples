@@ -10,4 +10,4 @@ Vous trouverez ici quelques code sources générés à partir de <a href='http:/
 Pour le moment, le logiciel est programmé pour produire du code source sous forme des projets Eclipse pour développeurs Java, utilisant la librairie dédiée à la création des jeux vidéo en 2D/3D <a href="https://libgdx.badlogicgames.com">LibGDX</a>.<br/>
 Plusieurs exemples sont des ports des jeux donnés en exemple avec le logiciel <a href="www.tululoo.com">Tululoo HTML5 Game Maker</a>. Je les ai portés parce que Kusakana a ce petit quelque chose qui ressemble à <a href="www.tululoo.com">Tululoo HTML5 Game Maker</a> ou à <a href="https://www.yoyogames.com/gamemaker">Game Maker</a> tout simplement. Je pense que les utilisateurs de ces logiciels devraient se sentir un tout petit peu comme "à la maison"<br/>
 
-<b>Kusakana Licence : <a href="http://www.negrorevolutio.com/sommaire.html">Standard | Business</a></b>
+<b>Kusakana Licence : <a href="http://www.negrorevolutio.com/sommaire.html">Standard |</a> <a href="mailto: yozefx@negrorevolutio.com">Business</a></b>
